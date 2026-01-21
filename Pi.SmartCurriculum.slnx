@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pi.SmartCurriculum/Pi.SmartCurriculum.Client/Pi.SmartCurriculum.Client.csproj" />
+  <Project Path="Pi.SmartCurriculum/Pi.SmartCurriculum/Pi.SmartCurriculum.csproj" />
+</Solution>
